@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    color: white;
+    width: auto; /*container-width*/
+
+}
+
+.container img {
+    display: block; /*remove inline-block spaces*/
+    object-fit: cover;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.activitygroup {
+    border-radius: 10px 10px 10px 10px;
+}
+
+.activitytext {
+
+}
